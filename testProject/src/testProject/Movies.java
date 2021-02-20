@@ -9,6 +9,7 @@ public class Movies {
 	{
 		System.out.println("This is a test to test if I'm able to commit new files under this repository");
 		System.out.print("This is a second test");
+		System.out.print("This is a third test");
 	}
 	
 }
